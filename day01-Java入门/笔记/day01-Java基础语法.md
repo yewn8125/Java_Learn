@@ -29,7 +29,7 @@
 
 ​	cmd默认操作C盘下的users文件夹下的XXX文件夹。（XXX就是计算机名）
 
- ![image-20210923091350952](assets\cmd.png)
+ ![image-20210923091350952](Java_Learn/day01-Java入门/笔记/assets/cmd.png)
 
 ### 1.3 常用CMD命令
 
